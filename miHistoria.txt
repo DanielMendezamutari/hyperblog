@@ -1,7 +1,1 @@
-hola mi nombre es Daniel
-
-estoy motivado a aprender mas del mundo de la tecnologia
-
-me apacionan las computadoras tanto hardware y software.
-
-quiero trabajar en jalasoft.
+hola mundo
