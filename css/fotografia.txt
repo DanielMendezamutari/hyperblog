@@ -8,3 +8,7 @@ saturacion 56
 matiz -2
 temperatura -13
 por ultimo pongo exposicion a 23
+
+este es mi tokens por 7 dias
+
+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
